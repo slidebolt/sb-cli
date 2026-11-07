@@ -3,10 +3,10 @@ module github.com/slidebolt/sb-cli
 go 1.26.1
 
 require (
-	github.com/slidebolt/sb-messenger-sdk v1.0.7
-	github.com/slidebolt/sb-script v1.0.11
-	github.com/slidebolt/sb-storage-sdk v1.0.7
-	github.com/slidebolt/sb-storage-server v1.0.10
+	github.com/slidebolt/sb-messenger-sdk v1.0.8
+	github.com/slidebolt/sb-script v1.0.12
+	github.com/slidebolt/sb-storage-sdk v1.0.8
+	github.com/slidebolt/sb-storage-server v1.0.11
 )
 
 require (
@@ -47,7 +47,7 @@ require (
 	github.com/nats-io/nuid v1.0.1 // indirect
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/slidebolt/sb-domain v1.0.14 // indirect
-	github.com/slidebolt/sb-logging-sdk v1.0.8 // indirect
+	github.com/slidebolt/sb-logging-sdk v1.0.9 // indirect
 	github.com/yuin/gopher-lua v1.1.1 // indirect
 	go.etcd.io/bbolt v1.4.0 // indirect
 	golang.org/x/crypto v0.48.0 // indirect
